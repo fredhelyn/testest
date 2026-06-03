@@ -299,13 +299,13 @@ body{
 
     /* MENU CARDS */
 
-    .coffee-container{
+    .frappe-container{
         grid-template-columns: 1fr;
         gap: 20px;
         padding: 20px;
     }
 
-    .coffee-card{
+    .frappe-card{
         width: 100%;
         max-width: 350px;
         margin: auto;
